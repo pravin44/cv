@@ -1,0 +1,17 @@
+
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: teal;
+}
+h3{
+    color: steelblue;
+}
+    hr{
+        background-color:indigo;
+        border-style: dotted none none;
+        height: 1px;
+        
+    }
+
