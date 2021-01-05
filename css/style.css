@@ -26,9 +26,7 @@ h3 {
     font-family: 'Montserrat', sans-serif;
   }
 
-   #profile-pic{
-    border-radius: 50%;
-  }
+  
 
   p {
     line-height: 2;
@@ -149,4 +147,7 @@ a:hover {
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
   }
-  
+
+   #profile-pic{
+    border-radius: 50%;
+  }
